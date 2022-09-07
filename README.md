@@ -4,4 +4,4 @@ The JSBridge for the client of PiCIMOS.
 ---
 
 ## Usage
-See [here](https://www.npmjs.com/package/piclient.js).
+See [here](https://www.npmjs.com/package/piclient.js/v/latest).
